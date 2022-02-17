@@ -1,0 +1,34 @@
+Cliente Servidor
+
+Hots ou endpoints: Todos os computadores que estão conectados a uma rede e participam diretamente
+da comunicação em rede são classificados como Hots. Os Hotspodem ser chamados de endpoints (dispo
+-sitivos finais).
+
+Servidores - Servidores são computadores com software que lhes permite fornecer informações, como
+e-mail ou páginas da Web, para outros dispositivos finais na rede. Cada serviço exige um software
+de servidor web, para que possa prover serviços web à rede. Um computador com software de servido
+r pode fornecer serviços simultaneamente a muitos clientes diferentes.
+
+Clientes - Um exemplo de software cliente é um navegador como o Chrome. Um único computador pode
+também executar vários tipos de software cliente. Por exemplo, um usuário pode verificar o e-mail
+e visualizar uma página da web enquanto troca mensagens instâtaneas e ouve um fluxo de áudio.
+
+Protocolos - São regras. Para que os dispositivos finais possam se comunicar através da rede, cad 
+a dis positivo deve cumprir o mesmo conjunto de regras. Essas regras são chamadas de protocolos e 
+eles tem muitas funções em uma rede.
+
+É importante destacar que um mesmo dispotisivo pode atuar como cliente ou servidor!
+
+Protocolos de e-mail - O e-mail é um método de armazenar, encaminhar, enviar e de recuperar mensa
+gens eletrônicas em uma rede. Mensagens de e-mail são armazenadas nos bancos de dados em servidor
+es de e-mail.
+
+Os clientes de e-mail se comunicam coms os servidores de e-mail para enviar e receber e-mails.
+
+O e-mail suporta três protocolos separados para a operação: SMTP, POP, IMAP. O processo que envia
+um e-mail usa SMTP. Um cliente recupera e-mails usando um dos dois protocolos da camada de aplica
+ção: POP ou IMAP. Enviar e-mail é com o protocolo SMTP.
+
+
+
+Importante o conhecimento de HTML e CSS.
