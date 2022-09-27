@@ -12,9 +12,9 @@ Ola, mensagem de teste iai
 """
 
 
-msg['From'] = 'pythonhouse22@gmail.com'
-password = '@22PytestinHouse!'
-msg['To'] = ('roza.stephen22@gmail.com')
+msg['From'] = ''
+password = ''
+msg['To'] = ('')
 msg.add_header('Content-Tyoe', 'text/html')
 msg.set_payload(body)
 
