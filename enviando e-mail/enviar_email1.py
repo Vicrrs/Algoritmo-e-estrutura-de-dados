@@ -1,8 +1,8 @@
 import smtplib
 
-de = 'pythonhouse22@gmail.com'
-senha = '@22PytestinHouse!'
-para = 'roza.stephen22@gmail.com'
+de = ''
+senha = ''
+para = ''
 
 msg = """
 Ola, mensagem de teste
